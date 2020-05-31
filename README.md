@@ -16,7 +16,9 @@ FMS provides below features to get the details from flight database.
 6. Display Flight by Operator :
 7. Exit :
 
-FMS takes input from user for above displayed menu and perform operations on the alredy stored flight data. By default FMS has 6 records in flight database.
+FMS takes input from user for above displayed menu and perform operations on the already stored flight database. By default FMS has 6 records in flight database.
+
+<img src="images/FMS_Menu.png"/>
 
 ## Dependencies for Running Locally
 * cmake >= 3.11
